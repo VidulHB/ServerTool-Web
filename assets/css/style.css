@@ -816,18 +816,6 @@ section {
   fill: #80c71f;
 }
 
-.services .iconbox-images i {
-  color: rgb(85,57,204);
-}
-
-.services .iconbox-images:hover .icon i {
-  color: #fff;
-}
-
-.services .iconbox-images:hover .icon path {
-  fill: rgb(85,57,204);
-}
-
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
