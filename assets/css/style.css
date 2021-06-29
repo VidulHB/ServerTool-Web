@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1;
   font-weight: 400;
   letter-spacing: 2px;
-  text-transform: uppercase;
+  font-style: normal;
 }
 
 #header .logo a {
@@ -778,6 +778,54 @@ section {
 
 .services .iconbox-teal:hover .icon path {
   fill: #11dbcf;
+}
+
+.services .iconbox-green i {
+  color: rgb(171, 255, 44);
+}
+
+.services .iconbox-green:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-green:hover .icon path {
+  fill: rgb(171, 255, 44);
+}
+
+.services .iconbox-discord i {
+  color: rgb(114, 137, 217);
+}
+
+.services .iconbox-discord:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-discord:hover .icon path {
+  fill: rgb(114, 137, 217);
+}
+
+.services .iconbox-minecraft i {
+  color: #80c71f;
+}
+
+.services .iconbox-minecraft:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-minecraft:hover .icon path {
+  fill: #80c71f;
+}
+
+.services .iconbox-images i {
+  color: rgb(85,57,204);
+}
+
+.services .iconbox-images:hover .icon i {
+  color: #fff;
+}
+
+.services .iconbox-images:hover .icon path {
+  fill: rgb(85,57,204);
 }
 
 /*--------------------------------------------------------------
