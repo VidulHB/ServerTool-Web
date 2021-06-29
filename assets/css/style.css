@@ -781,7 +781,7 @@ section {
 }
 
 .services .iconbox-green i {
-  color: rgb(171, 255, 44);
+  color: #abff2c;
 }
 
 .services .iconbox-green:hover .icon i {
@@ -789,11 +789,11 @@ section {
 }
 
 .services .iconbox-green:hover .icon path {
-  fill: rgb(171, 255, 44);
+  fill: #abff2c;
 }
 
 .services .iconbox-discord i {
-  color: rgb(114, 137, 217);
+  color: #7289d9;
 }
 
 .services .iconbox-discord:hover .icon i {
@@ -801,7 +801,7 @@ section {
 }
 
 .services .iconbox-discord:hover .icon path {
-  fill: rgb(114, 137, 217);
+  fill: #7289d9;
 }
 
 .services .iconbox-minecraft i {
