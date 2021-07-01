@@ -1702,3 +1702,11 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.badges {
+  padding: 5px 10px;
+  border: none;
+  border-radius: 10px;
+  font-family: 'Poppins', sans-serif;
+  background: crimson;
+}
